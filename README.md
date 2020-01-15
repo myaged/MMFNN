@@ -1,2 +1,2 @@
-# mmfnn
-mmfnn algorithm will be published here.
+# MMFNN
+MMFNN algorithm guiding code will be given here.
